@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abdulkarim Edris , a fourth year software engineering student
+- 👀 I’m interested in problem solving and coding, especially c++ and front end websites
+- 🌱 I’m currently learning Django
